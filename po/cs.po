@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-16 03:33-0500\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2008-02-18 23:43+0100\n"
 "Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -153,8 +153,8 @@ msgstr "Smrt vůdců jižní aliance."
 
 # pův.: (ledová, písečná a temná)
 #. [objectives]
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:102
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:124
 msgid ""
 "There are three warp gates (Ice, Sand, and Darkness).\n"
 "Anyone can use them to travel to the other gates.\n"
@@ -355,7 +355,7 @@ msgid "Yoink! That was easy."
 msgstr "Che, to bylo jednoduché!"
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:615
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:613
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -411,7 +411,7 @@ msgid "Look, a ship! Time to get out of here."
 msgstr "Hele, loď! Nejvyšší čas vypadnout odsud."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1232
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -422,7 +422,7 @@ msgstr ""
 "Po jeho ztrátě se můj lid odvrátil od zvyků a stal se piráty."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1240
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1238
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -438,7 +438,7 @@ msgid "Pirates! You won't take this land without a fight"
 msgstr "Tuto zem nezaberete bez boje, piráti!"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1258
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -540,7 +540,7 @@ msgid "Find the Dark Tome!"
 msgstr "Najdi Temnou knihu!"
 
 #. [objectives]
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 #, fuzzy
 msgid ""
 "\n"
@@ -575,7 +575,7 @@ msgid "dark tome"
 msgstr "temná kniha"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:370
 msgid ""
 "\n"
 "There's no forest for you to hide in."
@@ -584,7 +584,7 @@ msgstr ""
 "Není tu žádný les kde by ses skryl."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:375
 msgid ""
 "\n"
 "There isn't? Oh..."
@@ -593,7 +593,7 @@ msgstr ""
 "Není? Oh..."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:393
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
@@ -602,7 +602,7 @@ msgstr ""
 "Jed ti proti mně nepomůže, zločinče."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:398
 msgid ""
 "\n"
 "Thanks for the advice."
@@ -611,7 +611,7 @@ msgstr ""
 "Dík za radu."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:408
 msgid ""
 "\n"
 "Alas... "
@@ -620,7 +620,7 @@ msgstr ""
 "Běda!"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:413
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"

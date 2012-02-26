@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-Pack_Sapient\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-16 03:33-0500\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2008-05-04 15:50+0300\n"
 "Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
 "Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
@@ -148,8 +148,8 @@ msgid "Death of the southern alliance leaders."
 msgstr "Güney ittifakı liderlerinin ölümü"
 
 #. [objectives]
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:102
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:124
 msgid ""
 "There are three warp gates (Ice, Sand, and Darkness).\n"
 "Anyone can use them to travel to the other gates.\n"
@@ -349,7 +349,7 @@ msgid "Yoink! That was easy."
 msgstr "He he, ne kolay oldu."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:615
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:613
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -406,7 +406,7 @@ msgid "Look, a ship! Time to get out of here."
 msgstr "Bak bir gemi! Buradan gitmenin tam zamanı."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1232
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -417,7 +417,7 @@ msgstr ""
 "Onun kaybı yüzünden halkım yolunu şaşırıp korsan oldu."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1240
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1238
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -433,7 +433,7 @@ msgid "Pirates! You won't take this land without a fight"
 msgstr "Korsanlar! Beni öldürmeden bu toprakları ele geçiremezsiniz."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1258
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -536,7 +536,7 @@ msgid "Find the Dark Tome!"
 msgstr "Kara kitabı bul!"
 
 #. [objectives]
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 #, fuzzy
 msgid ""
 "\n"
@@ -571,7 +571,7 @@ msgid "dark tome"
 msgstr "kara kitap"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:370
 msgid ""
 "\n"
 "There's no forest for you to hide in."
@@ -580,7 +580,7 @@ msgstr ""
 "Gizlenebileceğin bir orman yok."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:375
 msgid ""
 "\n"
 "There isn't? Oh..."
@@ -589,7 +589,7 @@ msgstr ""
 "Yok mu? Hadi ya..."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:393
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
@@ -598,7 +598,7 @@ msgstr ""
 "Beni zehirleyerek bir yere varamazsın, suçlu."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:398
 msgid ""
 "\n"
 "Thanks for the advice."
@@ -607,7 +607,7 @@ msgstr ""
 "Önerin için teşekkürler."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:408
 msgid ""
 "\n"
 "Alas... "
@@ -616,7 +616,7 @@ msgstr ""
 "Yazık..."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:413
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"

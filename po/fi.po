@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-01-16 03:33-0500\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2008-12-04 05:47+0200\n"
 "Last-Translator: Mikko Nikkilä <miccoh@gmail.com>\n"
 "Language-Team: none\n"
@@ -142,8 +142,8 @@ msgid "Death of the southern alliance leaders."
 msgstr "Eteläisen liiton johtajien kuolema."
 
 #. [objectives]
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:102
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:124
 msgid ""
 "There are three warp gates (Ice, Sand, and Darkness).\n"
 "Anyone can use them to travel to the other gates.\n"
@@ -347,7 +347,7 @@ msgid "Yoink! That was easy."
 msgstr "Joink! Se oli helppoa."
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:615
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:613
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -404,7 +404,7 @@ msgid "Look, a ship! Time to get out of here."
 msgstr "Katso, laiva! Aika päästä täältä ulos."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1232
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -415,7 +415,7 @@ msgstr ""
 "Sen kadottua kansani on kadottanut tiemme ja ruvennut merirosvoiksi."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1240
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1238
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -431,7 +431,7 @@ msgid "Pirates! You won't take this land without a fight"
 msgstr "Merirosvot! Tätä maata ette saa taistelutta!"
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1258
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -533,7 +533,7 @@ msgid "Find the Dark Tome!"
 msgstr "Löydä pimeä opus!"
 
 #. [objectives]
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 #, fuzzy
 msgid ""
 "\n"
@@ -569,7 +569,7 @@ msgid "dark tome"
 msgstr "pimeä opus"
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:370
 msgid ""
 "\n"
 "There's no forest for you to hide in."
@@ -578,7 +578,7 @@ msgstr ""
 "Täällä ei ole sinulle metsää, jossa piileskellä."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:375
 msgid ""
 "\n"
 "There isn't? Oh..."
@@ -587,7 +587,7 @@ msgstr ""
 "Eikö? Ai..."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:393
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
@@ -596,7 +596,7 @@ msgstr ""
 "Minun myrkyttämiselläni et saavuta mitään, roisto."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:398
 msgid ""
 "\n"
 "Thanks for the advice."
@@ -605,7 +605,7 @@ msgstr ""
 "Kiitos avusta."
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:408
 msgid ""
 "\n"
 "Alas... "
@@ -614,7 +614,7 @@ msgstr ""
 "Harmi..."
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:413
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"

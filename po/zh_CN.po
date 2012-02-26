@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:36+0100\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 
 #. [multiplayer]: id=multiplayer_Tomb_of_Kings
 #: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:5
@@ -50,9 +50,9 @@ msgid "Your leader dies."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 msgid "End of turns."
 msgstr ""
 
@@ -136,8 +136,8 @@ msgid "Death of the southern alliance leaders."
 msgstr ""
 
 #. [objectives]
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:104
-#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:126
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:102
+#: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:124
 msgid ""
 "There are three warp gates (Ice, Sand, and Darkness).\n"
 "Anyone can use them to travel to the other gates.\n"
@@ -332,7 +332,7 @@ msgid "Yoink! That was easy."
 msgstr ""
 
 #. [message]: speaker=OrcLeader
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:615
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:613
 msgid ""
 "After him, you worthless louts! He went behind the waterfall.\n"
 "\n"
@@ -385,7 +385,7 @@ msgid "Look, a ship! Time to get out of here."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1234
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1232
 msgid ""
 "Ah! So you must be the ones who took our sacred tree.\n"
 "\n"
@@ -393,7 +393,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1240
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1238
 msgid ""
 "I didn't take your sacred tree, but maybe I did kill it. Heh.\n"
 "\n"
@@ -406,7 +406,7 @@ msgid "Pirates! You won't take this land without a fight"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1258
+#: Pack_Sapient/scenarios/4p_Northerners_RPG.cfg:1256
 msgid ""
 "Look! Don't you remember me?\n"
 "\n"
@@ -437,8 +437,8 @@ msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
 msgstr ""
 
 #. [objective]: condition=win
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:28
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:157
 msgid "Kill enemy leaders!"
 msgstr ""
 
@@ -501,7 +501,7 @@ msgid "Find the Dark Tome!"
 msgstr ""
 
 #. [objectives]
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:161
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:160
 msgid ""
 "\n"
 "<span size='small'>Note: When a leader dies, all of his troops leave the "
@@ -532,42 +532,42 @@ msgid "dark tome"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:371
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:370
 msgid ""
 "\n"
 "There's no forest for you to hide in."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:376
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:375
 msgid ""
 "\n"
 "There isn't? Oh..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:394
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:393
 msgid ""
 "\n"
 "Poisoning me will get you nowhere, criminal."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:399
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:398
 msgid ""
 "\n"
 "Thanks for the advice."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:409
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:408
 msgid ""
 "\n"
 "Alas... "
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:414
+#: Pack_Sapient/scenarios/6p_Royal_Rumble_Lavaville.cfg:413
 msgid ""
 "\n"
 "Ngahaha... First kill! Who wants to be next?!"
