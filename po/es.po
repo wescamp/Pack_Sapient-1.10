@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:23+0100\n"
+"POT-Creation-Date: 2012-05-11 23:23-0400\n"
 "PO-Revision-Date: 2011-02-21 15:36+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -51,9 +51,9 @@ msgid "Your leader dies."
 msgstr ""
 
 #. [objective]: condition=lose
+#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:99
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:121
-#: Pack_Sapient/scenarios/2p_Tomb_of_Kings.cfg:53
 msgid "End of turns."
 msgstr ""
 
@@ -122,8 +122,8 @@ msgstr ""
 msgid "Recommended settings: 1gpv, Great War Era"
 msgstr ""
 
-#. [objective]: condition=win
 #. [objective]: condition=lose
+#. [objective]: condition=win
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:91
 #: Pack_Sapient/scenarios/4p_Mega_2v2.cfg:117
 msgid "Death of the northern alliance leaders."
@@ -430,8 +430,8 @@ msgstr ""
 msgid "A 'tactical nightmare' where your ally is also your comedy relief."
 msgstr ""
 
-#. [objectives]
 #. [multiplayer]: id=multiplayer_traitors
+#. [objectives]
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:11
 #: Pack_Sapient/scenarios/4p_Traitors_Island.cfg:26
 msgid " Recommended setting of Age of Heroes Era and 50 starting gold."
